@@ -1,0 +1,15 @@
+C:\Users\alena\Examples\Example005_ConditionFL\bin\Debug\net6.0\Example005_ConditionFL.exe
+C:\Users\alena\Examples\Example005_ConditionFL\bin\Debug\net6.0\Example005_ConditionFL.deps.json
+C:\Users\alena\Examples\Example005_ConditionFL\bin\Debug\net6.0\Example005_ConditionFL.runtimeconfig.json
+C:\Users\alena\Examples\Example005_ConditionFL\bin\Debug\net6.0\Example005_ConditionFL.dll
+C:\Users\alena\Examples\Example005_ConditionFL\bin\Debug\net6.0\Example005_ConditionFL.pdb
+C:\Users\alena\Examples\Example005_ConditionFL\obj\Debug\net6.0\Example005_ConditionFL.csproj.AssemblyReference.cache
+C:\Users\alena\Examples\Example005_ConditionFL\obj\Debug\net6.0\Example005_ConditionFL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alena\Examples\Example005_ConditionFL\obj\Debug\net6.0\Example005_ConditionFL.AssemblyInfoInputs.cache
+C:\Users\alena\Examples\Example005_ConditionFL\obj\Debug\net6.0\Example005_ConditionFL.AssemblyInfo.cs
+C:\Users\alena\Examples\Example005_ConditionFL\obj\Debug\net6.0\Example005_ConditionFL.csproj.CoreCompileInputs.cache
+C:\Users\alena\Examples\Example005_ConditionFL\obj\Debug\net6.0\Example005_ConditionFL.dll
+C:\Users\alena\Examples\Example005_ConditionFL\obj\Debug\net6.0\refint\Example005_ConditionFL.dll
+C:\Users\alena\Examples\Example005_ConditionFL\obj\Debug\net6.0\Example005_ConditionFL.pdb
+C:\Users\alena\Examples\Example005_ConditionFL\obj\Debug\net6.0\Example005_ConditionFL.genruntimeconfig.cache
+C:\Users\alena\Examples\Example005_ConditionFL\obj\Debug\net6.0\ref\Example005_ConditionFL.dll
